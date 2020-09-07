@@ -25,3 +25,6 @@
 [submodule "organs/helper"]
 	path = organs/helper
 	url = https://github.com/BLOCKOTUS/helper.git
+[submodule "organs/state"]
+	path = organs/state
+	url = https://github.com/unitedstatesoftheworld/state.git
