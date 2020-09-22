@@ -1,5 +1,6 @@
-# || BLOCKOTUS || Organism
-## _Hyperledger Fabric SDK_
+# United States of the World - Network
+## Made with || BLOCKOTUS || Organism
+### and _Hyperledger Fabric SDK_
 
 Build complete decentralized applications with BLOCKOTUS Organism. 
 
